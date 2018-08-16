@@ -1,13 +1,13 @@
 # How to run
-0.
-install yarn https://yarnpkg.com/zh-Hans/
-1.
+1. install yarn https://yarnpkg.com/zh-Hans/
+
+2.
 ```
 $ yarn
 ```
-2.
+3.
 ```
 $ yarn run dev
 ```
-3.
+4.
 使用瀏覽器開啟 http://0.0.0.0:8080/main/
